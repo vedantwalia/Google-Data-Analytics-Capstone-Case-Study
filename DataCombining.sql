@@ -34,3 +34,5 @@ SELECT * FROM`capstone_raw_data.202407-divvy-tripdata`
 
 SELECT count(*)
 FROM `capstone_raw_data.combined-data`;
+
+-- There are 5715693 rows in this table
